@@ -1,0 +1,28 @@
+spring:
+  application:
+    name: tourism-hotel-booking-monolith
+
+  datasource:
+    URL: jdbc:mysql:hotel-database-1.czjk27lngewg.us-east-1.rds.amazonaws.com:3306/hotel-database-1
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: admin
+    password: lYZ1T6MUQjyzSQRSAX4e
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  main:
+    allow-bean-definition-overriding: true
+
+server:
+  port: 8080
+
+app:
+  jwtSecret: k9F3sL8Vh2dJQ6Zx4aN1pT7wR0YbC5mE8uKqG3XrHsU=
+  jwtExpirationMs: 86400000
