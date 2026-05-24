@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca89965d-9f70-47fc-bf26-89bcf0061bfa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-ecs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-ecs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/swer313/hotel/monolith/booking/BookingFlowIntegrationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/application-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.swer313.hotel.monolith.booking.BookingFlowIntegrationTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.swer313.hotel.monolith.booking.BookingFlowIntegrationTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/application-test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/swer313/hotel/monolith/booking/BookingFlowIntegrationTest.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ca89965d-9f70-47fc-bf26-89bcf0061bfa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +21,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abughayyada-Adam/CICD-cloud.git",
+    "url": "https://github.com/Abughayyada-Adam/CICD-Adam.git",
     "accountId": "6e6056ae-6341-461c-842b-3b4f17a771ae"
   }
 }]]></component>
@@ -78,7 +65,7 @@
       <updated>1779655407559</updated>
       <workItem from="1779655408700" duration="346000" />
       <workItem from="1779655762839" duration="79000" />
-      <workItem from="1779655853324" duration="329000" />
+      <workItem from="1779655853324" duration="806000" />
     </task>
     <servers />
   </component>
